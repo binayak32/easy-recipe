@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/easy-recipe/static/css/main.e6c13ad2.css",
+    "main.js": "/easy-recipe/static/js/main.f797dc11.js",
+    "static/js/453.3e3da1f9.chunk.js": "/easy-recipe/static/js/453.3e3da1f9.chunk.js",
+    "static/media/pageicon.png": "/easy-recipe/static/media/pageicon.7a0b0d48c391b56bccad.png",
+    "index.html": "/easy-recipe/index.html",
+    "static/media/searchicon.svg": "/easy-recipe/static/media/searchicon.42ed07b9445c6d30639abf729125c477.svg",
+    "main.e6c13ad2.css.map": "/easy-recipe/static/css/main.e6c13ad2.css.map",
+    "main.f797dc11.js.map": "/easy-recipe/static/js/main.f797dc11.js.map",
+    "453.3e3da1f9.chunk.js.map": "/easy-recipe/static/js/453.3e3da1f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f797dc11.js"
+  ]
+}
